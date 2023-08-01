@@ -1,0 +1,43 @@
+html,body{
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: space-between; */
+}
+header{
+    min-height:80px;
+    background-color: aqua;
+
+}
+.main{background-color: red;
+height:400px;
+width:100%;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+/* justify-content: center;
+align-items: center; */
+}
+footer{
+    background-color: lightsalmon;
+    height: 60px;
+}
+.box1{
+    height:70%;
+    width:20%;
+    background-color: brown;
+}
+.box2{
+    height:70%;
+    width:20%;
+    background-color: blue;
+}
+.box3{
+    height:70%;
+    width:20%;
+    background-color:pink;
+}
