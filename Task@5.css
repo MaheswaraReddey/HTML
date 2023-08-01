@@ -1,0 +1,22 @@
+.Mahesh{
+    background-color:lightgoldenrodyellow;
+    height:95%;
+    width:100%;
+    display:flex;
+    justify-content: column;
+}
+img{
+    height: 25%;
+    width:25%;
+    margin:10px;
+    transition:transform 0.3s ease in ease-in-out;
+}
+.C2{
+    height:95vh;
+    width:100%;
+    justify-content: column;
+    
+}
+img:hover{
+transform:scale(2.1); 
+}
